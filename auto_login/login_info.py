@@ -6,5 +6,5 @@
 # @Date  : 2017/11/8
 # @Desc  :
 
-username = '798231448@qq.com'
-password = 'lzksw448'
+username = 'your 12306 username'
+password = 'your 12306 password'
